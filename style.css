@@ -359,6 +359,12 @@ margin: bottom 100px;
 
 
 @media  screen and (max-width: 375px) {
+    body{
+        flex-direction: column;
+    }
+    
+    
+    
     .head{
         position: absolute;
         width: 170.08px;
